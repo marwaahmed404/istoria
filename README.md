@@ -2,10 +2,15 @@ Project Name : Istoria
 Project Overview:
 __________________________________________________________________________________
 Team Members:
+_________________________
 Member1 : Marwa Ahmed Muhamed
+_________________________
 Member2 :Sara Saeed emam
+_________________________
 Member3 :Sonos shrief Abdeldaim
+_________________________
 Member4 :Jaaiana Osama eshak
+_________________________
 Member5 :Sama Ahmed Ali
 _______________________________________________________________________________
 Instructor : Sama Yasser
